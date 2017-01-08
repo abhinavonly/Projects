@@ -1,0 +1,1 @@
+{"version":3,"sources":["rootReducer.js"],"names":[],"mappings":";;;;;;AAAA;;AAEA;;;;;;eAEe,4BAAgB;AAC9B;AAD8B,CAAhB,C","file":"rootReducer-compiled.js","sourcesContent":["import {combineReducers} from 'redux';\n\nimport flashMessages from './src/reducers/flashMessages';\n\nexport default combineReducers({\n\tflashMessages\n});"]}
